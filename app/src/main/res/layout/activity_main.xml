@@ -44,28 +44,29 @@
                 <ImageView
                     android:id="@+id/iv_one"
                     android:layout_gravity="right|top"
-                    android:layout_width="16dp"
-                    android:layout_marginRight="32dp"
-                    android:layout_marginTop="16dp"
-                    android:layout_height="16dp"
-                    android:src="@drawable/abc_btn_check_material"/>
+                    android:layout_width="10dp"
+                    android:layout_marginRight="48dp"
+                    android:layout_marginTop="18dp"
+                    android:layout_height="10dp"
+                    android:src="@drawable/ic_more_dots"/>
 
                 <ImageView
                     android:id="@+id/iv_two"
-                    android:layout_width="16dp"
-                    android:layout_height="16dp"
-                    android:layout_marginTop="16dp"
-                    android:layout_marginRight="16dp"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:layout_marginTop="18dp"
+                    android:layout_marginRight="32dp"
                     android:layout_gravity="right|top"
-                    android:src="@drawable/abc_btn_check_material"/>
+                    android:src="@drawable/ic_more_dots"/>
 
                 <ImageView
                     android:id="@+id/iv_three"
                     android:layout_gravity="right|top"
-                    android:layout_width="16dp"
-                    android:layout_marginTop="16dp"
-                    android:layout_height="16dp"
-                    android:src="@drawable/abc_btn_check_material"/>
+                    android:layout_width="10dp"
+                    android:layout_marginTop="18dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_height="10dp"
+                    android:src="@drawable/ic_more_dots"/>
 
             </FrameLayout>
 
